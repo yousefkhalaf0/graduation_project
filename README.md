@@ -38,6 +38,12 @@ The app achieved an **Excellent** grade, showcasing its robust architecture, use
 
 ---
 
+## Demo Video
+
+Watch the app in action: https://bit.ly/3TlFefd
+
+---
+
 ## Technologies Used
 
 ### Flutter Packages
